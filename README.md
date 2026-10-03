@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> **Supermail is now MemDesk, and has moved to
+> [github.com/michaelbeijer/MemDesk](https://github.com/michaelbeijer/MemDesk).**
+> This repository is no longer updated: get the latest version, the guides and
+> the phone app's Code.gs there.
+
 <p align="center">
   <img src="icons/icon.svg" width="112" height="112" alt="">
 </p>
